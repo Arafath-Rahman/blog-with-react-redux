@@ -1,3 +1,6 @@
+This is a very simple web blog application using React with Redux. The API used for the app is JsonPlaceholder API.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
